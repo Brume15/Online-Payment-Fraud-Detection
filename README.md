@@ -1,4 +1,4 @@
-# sturdy-eureka
+# Online-Payment-Fraud-Detection
 This is a machine learning model that is used to predict online payment fraud
 Blossom Bank Project
 
