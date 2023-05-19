@@ -1,6 +1,6 @@
 # Online-Payment-Fraud-Detection
 This is a machine learning model that is used to predict online payment fraud
-for Blossom Bank
+for Blossom Bank.
 
 The aim of the bank project is to utilize machine learning techniques for predicting fraudulent banking transactions. The dataset consists of over 1,000,000 entries across various categories, organized in a CSV file format that includes both categorical and non-categorical variables.
 
