@@ -17,4 +17,3 @@ Based on the analysis, I observed that both Random Forest and KNeighbor demonstr
 One significant challenge encountered during the project was encoding the data due to the large dataset size and limitations of my system's capacity to process it efficiently.
 
 To overcome this challenge, I made the decision to drop two categorical variables from the main DataFrame, which helped alleviate the encoding difficulties
-To overcome this challenge, I made the decision to drop two categorical variables from the main DataFrame, which helped alleviate the encoding difficulties.
