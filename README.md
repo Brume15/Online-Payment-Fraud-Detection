@@ -14,6 +14,6 @@ For effective model testing, training, and prediction, I performed feature engin
 
 Based on the analysis, I observed that both Random Forest and KNeighbor demonstrated better predictive capabilities in detecting fraudulent transactions compared to the other models. However, I recommend utilizing Random Forest due to its higher precision of 98% compared to KNeighbor's 78%, as well as its superior recall rate of 79% versus 50% for KNeighbor. Additionally, the F1-score for Random Forest was 87%, while KNeighbor achieved a score of 61%.
 
-One significant challenge encountered during the project was encoding the data due to the large dataset size and limitations of my system's capacity to process it efficiently.
+One insignificant challenge encountered during the project was encoding the data due to the large dataset size, which took a bit of time to run 
 
-To overcome this challenge, I made the decision to drop two categorical variables from the main DataFrame, which helped alleviate the encoding difficulties
+To overcome this challenge, I simply had to wait patiently :)
